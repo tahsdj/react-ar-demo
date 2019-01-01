@@ -1,14 +1,15 @@
 {
-  "main.css": "/react-ar-demo/static/css/main.2742d2f2.chunk.css",
-  "main.js": "/react-ar-demo/static/js/main.8b879efa.chunk.js",
-  "main.js.map": "/react-ar-demo/static/js/main.8b879efa.chunk.js.map",
-  "static/js/1.c3313567.chunk.js": "/react-ar-demo/static/js/1.c3313567.chunk.js",
-  "static/js/1.c3313567.chunk.js.map": "/react-ar-demo/static/js/1.c3313567.chunk.js.map",
+  "main.css": "/react-ar-demo/static/css/main.30fd5fcb.chunk.css",
+  "main.js": "/react-ar-demo/static/js/main.ed824bbf.chunk.js",
+  "main.js.map": "/react-ar-demo/static/js/main.ed824bbf.chunk.js.map",
+  "static/js/1.1a43f6d1.chunk.js": "/react-ar-demo/static/js/1.1a43f6d1.chunk.js",
+  "static/js/1.1a43f6d1.chunk.js.map": "/react-ar-demo/static/js/1.1a43f6d1.chunk.js.map",
   "runtime~main.js": "/react-ar-demo/static/js/runtime~main.31670bcc.js",
   "runtime~main.js.map": "/react-ar-demo/static/js/runtime~main.31670bcc.js.map",
+  "static/css/main.30fd5fcb.chunk.css.map": "/react-ar-demo/static/css/main.30fd5fcb.chunk.css.map",
+  "static/media/style.png": "/react-ar-demo/static/media/style.e8cae6b1.png",
   "static/media/logo.svg": "/react-ar-demo/static/media/logo.5d5d9eef.svg",
-  "static/css/main.2742d2f2.chunk.css.map": "/react-ar-demo/static/css/main.2742d2f2.chunk.css.map",
   "index.html": "/react-ar-demo/index.html",
-  "precache-manifest.7b4289322055bf91b6142d571403acd6.js": "/react-ar-demo/precache-manifest.7b4289322055bf91b6142d571403acd6.js",
+  "precache-manifest.d6860fe5b1b9da464298c6490ea3c2d3.js": "/react-ar-demo/precache-manifest.d6860fe5b1b9da464298c6490ea3c2d3.js",
   "service-worker.js": "/react-ar-demo/service-worker.js"
 }
