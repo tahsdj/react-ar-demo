@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/react-ar-demo/static/js/runtime~main.31670bcc.js"
   },
   {
-    "revision": "cbb6ba62ddb14453b6a6",
-    "url": "/react-ar-demo/static/js/main.cbb6ba62.chunk.js"
+    "revision": "7b1e55148f8e0d07b47a",
+    "url": "/react-ar-demo/static/js/main.7b1e5514.chunk.js"
   },
   {
     "revision": "1a43f6d1b0b3f226caa3",
     "url": "/react-ar-demo/static/js/1.1a43f6d1.chunk.js"
   },
   {
-    "revision": "cbb6ba62ddb14453b6a6",
-    "url": "/react-ar-demo/static/css/main.30fd5fcb.chunk.css"
+    "revision": "7b1e55148f8e0d07b47a",
+    "url": "/react-ar-demo/static/css/main.26650df9.chunk.css"
   },
   {
-    "revision": "5e7f1a652ce765aa7493eedd5cb0e571",
+    "revision": "a41b17bbc576afd0216efc670db39122",
     "url": "/react-ar-demo/index.html"
   }
 ];

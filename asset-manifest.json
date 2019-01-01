@@ -1,16 +1,16 @@
 {
-  "main.css": "/react-ar-demo/static/css/main.30fd5fcb.chunk.css",
-  "main.js": "/react-ar-demo/static/js/main.cbb6ba62.chunk.js",
-  "main.js.map": "/react-ar-demo/static/js/main.cbb6ba62.chunk.js.map",
+  "main.css": "/react-ar-demo/static/css/main.26650df9.chunk.css",
+  "main.js": "/react-ar-demo/static/js/main.7b1e5514.chunk.js",
+  "main.js.map": "/react-ar-demo/static/js/main.7b1e5514.chunk.js.map",
   "static/js/1.1a43f6d1.chunk.js": "/react-ar-demo/static/js/1.1a43f6d1.chunk.js",
   "static/js/1.1a43f6d1.chunk.js.map": "/react-ar-demo/static/js/1.1a43f6d1.chunk.js.map",
   "runtime~main.js": "/react-ar-demo/static/js/runtime~main.31670bcc.js",
   "runtime~main.js.map": "/react-ar-demo/static/js/runtime~main.31670bcc.js.map",
-  "static/css/main.30fd5fcb.chunk.css.map": "/react-ar-demo/static/css/main.30fd5fcb.chunk.css.map",
+  "static/css/main.26650df9.chunk.css.map": "/react-ar-demo/static/css/main.26650df9.chunk.css.map",
   "static/media/style.png": "/react-ar-demo/static/media/style.e8cae6b1.png",
   "static/media/pattern-marker.patt": "/react-ar-demo/static/media/pattern-marker.bd637ff5.patt",
   "static/media/logo.svg": "/react-ar-demo/static/media/logo.5d5d9eef.svg",
   "index.html": "/react-ar-demo/index.html",
-  "precache-manifest.1c869fd550f3d4b06844e50c64707bb4.js": "/react-ar-demo/precache-manifest.1c869fd550f3d4b06844e50c64707bb4.js",
+  "precache-manifest.e6286acfc98f434c7e742529a8cc5a97.js": "/react-ar-demo/precache-manifest.e6286acfc98f434c7e742529a8cc5a97.js",
   "service-worker.js": "/react-ar-demo/service-worker.js"
 }
